@@ -1,0 +1,7 @@
+com/journal/journalApp/repository/journalEntryRepo.class
+com/journal/journalApp/entity/journalEntry.class
+com/journal/journalApp/controller/healthCheck.class
+com/journal/journalApp/controller/journalEntryController.class
+com/journal/journalApp/JournalApplication.class
+com/journal/journalApp/controller/journalController.class
+com/journal/journalApp/service/JournalEntryService.class
