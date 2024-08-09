@@ -1,7 +1,5 @@
-/Users/abdulrasheed/Desktop/Java Preparation/journalApp/src/main/java/com/journal/journalApp/controller/healthCheck.java
-/Users/abdulrasheed/Desktop/Java Preparation/journalApp/src/main/java/com/journal/journalApp/service/JournalEntryService.java
-/Users/abdulrasheed/Desktop/Java Preparation/journalApp/src/main/java/com/journal/journalApp/controller/journalController.java
-/Users/abdulrasheed/Desktop/Java Preparation/journalApp/src/main/java/com/journal/journalApp/controller/journalEntryController.java
-/Users/abdulrasheed/Desktop/Java Preparation/journalApp/src/main/java/com/journal/journalApp/entity/journalEntry.java
-/Users/abdulrasheed/Desktop/Java Preparation/journalApp/src/main/java/com/journal/journalApp/repository/journalEntryRepo.java
-/Users/abdulrasheed/Desktop/Java Preparation/journalApp/src/main/java/com/journal/journalApp/JournalApplication.java
+/Users/abdulrasheed/Desktop/Java Preparation/Apps/journalApp/src/main/java/com/journal/journalApp/controller/journalController.java
+/Users/abdulrasheed/Desktop/Java Preparation/Apps/journalApp/src/main/java/com/journal/journalApp/JournalApplication.java
+/Users/abdulrasheed/Desktop/Java Preparation/Apps/journalApp/src/main/java/com/journal/journalApp/repository/journalEntryRepo.java
+/Users/abdulrasheed/Desktop/Java Preparation/Apps/journalApp/src/main/java/com/journal/journalApp/entity/journalEntry.java
+/Users/abdulrasheed/Desktop/Java Preparation/Apps/journalApp/src/main/java/com/journal/journalApp/service/JournalEntryService.java
