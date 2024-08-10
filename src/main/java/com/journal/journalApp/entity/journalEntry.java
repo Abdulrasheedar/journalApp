@@ -8,7 +8,10 @@ import org.springframework.data.mongodb.core.mapping.Document;
 
 import com.mongodb.lang.NonNull;
 
+import lombok.NoArgsConstructor;
+
 @Document(collection = "journal_entries")
+@NoArgsConstructor
 public class journalEntry {
 	
 	@Id
