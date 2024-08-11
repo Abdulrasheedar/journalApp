@@ -28,13 +28,6 @@ public class UserController {
 	@Autowired
 	private UserRepo userRepository;
 	
-//	@GetMapping
-//	public List<User> getAllUsers(){
-//		
-//		return userService.getAll();
-//		
-//	}
-	
 	
 	
 	@PutMapping
@@ -44,7 +37,7 @@ public class UserController {
 		User userInDb = userService.findByUserName(userName); 
 		userInDb.setUserName(user.getUserName());
 		userInDb.setPassword(user.getPassword());
-		userService.saveEntry(userInDb);
+		userService.saveNewUser(userInDb);
 		return new ResponseEntity<>(HttpStatus.NO_CONTENT);
 	}
 	
