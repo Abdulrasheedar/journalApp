@@ -1,5 +1,9 @@
+/Users/abdulrasheed/Desktop/Java Preparation/Apps/journalApp/src/main/java/com/journal/journalApp/entity/User.java
 /Users/abdulrasheed/Desktop/Java Preparation/Apps/journalApp/src/main/java/com/journal/journalApp/controller/journalController.java
+/Users/abdulrasheed/Desktop/Java Preparation/Apps/journalApp/src/main/java/com/journal/journalApp/service/UserService.java
 /Users/abdulrasheed/Desktop/Java Preparation/Apps/journalApp/src/main/java/com/journal/journalApp/JournalApplication.java
+/Users/abdulrasheed/Desktop/Java Preparation/Apps/journalApp/src/main/java/com/journal/journalApp/repository/UserRepo.java
 /Users/abdulrasheed/Desktop/Java Preparation/Apps/journalApp/src/main/java/com/journal/journalApp/repository/journalEntryRepo.java
+/Users/abdulrasheed/Desktop/Java Preparation/Apps/journalApp/src/main/java/com/journal/journalApp/controller/UserController.java
 /Users/abdulrasheed/Desktop/Java Preparation/Apps/journalApp/src/main/java/com/journal/journalApp/entity/journalEntry.java
 /Users/abdulrasheed/Desktop/Java Preparation/Apps/journalApp/src/main/java/com/journal/journalApp/service/JournalEntryService.java

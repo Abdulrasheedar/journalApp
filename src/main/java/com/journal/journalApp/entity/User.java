@@ -1,6 +1,5 @@
 package com.journal.journalApp.entity;
 
-import java.time.LocalDateTime;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -25,6 +24,15 @@ public class User {
 	private String password;
 	@DBRef
 	private List<journalEntry> journalEntries = new ArrayList<journalEntry>();
+	private List<String> roles;
+	
+	
+	public List<String> getRoles() {
+		return roles;
+	}
+	public void setRoles(List<String> roles) {
+		this.roles = roles;
+	}
 	public ObjectId getId() {
 		return id;
 	}
